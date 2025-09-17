@@ -45,3 +45,4 @@ trigram_model.npz
 
 # Misc
 *.pyc
+models/*.pkl
