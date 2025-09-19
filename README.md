@@ -45,6 +45,6 @@ If you’d like to improve this project:
 
 This project is licensed under the [Apache License 2.0](LICENSE).  
 
-© 2025 Ruskaruma. Licensed under the Apache License, Version 2.0 (the "License");  
-you may not use this project except in compliance with the License.  
+© 2025 Ruskaruma. Licensed under the Apache License, Version 2.0 (the "License")  
+You may not use this project except in compliance with the License.  
 ---
